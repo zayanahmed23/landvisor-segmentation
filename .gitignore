@@ -1,0 +1,32 @@
+# Dataset and Images
+data/
+datasets/
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+
+# Model Weights and Checkpoints
+*.pth
+*.pt
+*.onnx
+checkpoints/
+models/saved_models/
+
+# Python Virtual Environments
+venv/
+env/
+.env
+.venv
+
+# Python Cache and Logs
+__pycache__/
+*.pyc
+logs/
+runs/
+.ipynb_checkpoints/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
